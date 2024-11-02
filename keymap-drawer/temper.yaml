@@ -1,3 +1,4 @@
+layout: {qmk_keyboard: chocofi}
 layers:
   Alpha:
   - J
